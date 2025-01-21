@@ -1,0 +1,10 @@
+.shape {
+    height: 100px;
+    /* set the width of the container to full width */
+    width: 100%;
+    border-bottom: 0px solid rgb(2, 2, 2);
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    /* set the background of the container to blue */
+    background-color: rgb(72, 72, 231);
+  }
